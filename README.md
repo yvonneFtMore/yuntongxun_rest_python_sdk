@@ -1,6 +1,6 @@
 # yuntongxun_rest_python_sdk
-
-** Author：Yvonne Zhang **
+------
+##### Author：Yvonne Zhang 
 ------
 - 仅仅只是发送模版短信
 
