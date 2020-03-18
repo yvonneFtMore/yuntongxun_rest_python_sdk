@@ -1,7 +1,7 @@
 # yuntongxun_rest_python_sdk
-------
-##### Author：Yvonne Zhang 
-------
-- 仅仅只是发送模版短信
 
-- 根据实际应用进行了修改，解决了包体大小限制
+###### Author：Yvonne Zhang 
+
+- Only use for sending template message.
+
+- Fix the limitation of content length.
